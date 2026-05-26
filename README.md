@@ -85,18 +85,4 @@ This project is pre-configured to be deployed on **Hugging Face Spaces**:
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here after launching or deploying)*
 
-| Paste & Configuration | Generated AI Summary |
-| --------------------- | -------------------- |
-| ![Paste Area Placeholder](https://placehold.co/600x400?text=Paste+Article+UI) | ![Summary Area Placeholder](https://placehold.co/600x400?text=Summary+Output+UI) |
-
----
-
-## 🔗 Project Links & Submission Details
-
-- **Author**: [Your Name / Student ID]
-- **GitHub Repository**: [Repository URL Placeholder]
-- **Hugging Face Spaces Live Demo**: [Hugging Face Spaces URL Placeholder]
-- **Viva/Submission Note**: This project is built as part of the academic curriculum for demonstrating practical understanding of Transformer-based models, Natural Language Processing, and web interface integrations.
